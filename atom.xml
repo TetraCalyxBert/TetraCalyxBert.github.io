@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://TetraCalyxBert.com</id>
+    <id>https://TetraCalyxBert.github.io</id>
     <title>TetraCalyxBert</title>
-    <updated>2019-05-26T05:02:34.068Z</updated>
+    <updated>2019-05-26T05:06:50.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://TetraCalyxBert.com"/>
-    <link rel="self" href="https://TetraCalyxBert.com/atom.xml"/>
+    <link rel="alternate" href="https://TetraCalyxBert.github.io"/>
+    <link rel="self" href="https://TetraCalyxBert.github.io/atom.xml"/>
     <subtitle> 📸grapher&amp;Designer😺</subtitle>
-    <logo>https://TetraCalyxBert.com/images/avatar.png</logo>
-    <icon>https://TetraCalyxBert.com/favicon.ico</icon>
+    <logo>https://TetraCalyxBert.github.io/images/avatar.png</logo>
+    <icon>https://TetraCalyxBert.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, TetraCalyxBert</rights>
     <entry>
         <title type="html"><![CDATA[TetraCalyxBert's Self-introduction]]></title>
-        <id>https://TetraCalyxBert.com/post/tetracalyxberts-self-introduction</id>
-        <link href="https://TetraCalyxBert.com/post/tetracalyxberts-self-introduction">
+        <id>https://TetraCalyxBert.github.io/post/tetracalyxberts-self-introduction</id>
+        <link href="https://TetraCalyxBert.github.io/post/tetracalyxberts-self-introduction">
         </link>
         <updated>2019-05-26T04:48:31.000Z</updated>
         <content type="html"><![CDATA[<p>!</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://TetraCalyxBert.com/post/hello-gridea</id>
-        <link href="https://TetraCalyxBert.com/post/hello-gridea">
+        <id>https://TetraCalyxBert.github.io/post/hello-gridea</id>
+        <link href="https://TetraCalyxBert.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
